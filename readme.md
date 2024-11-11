@@ -1,4 +1,4 @@
-**Despliegue Automatizado de Servidor Web con Vagrant y Puppet**
+**Automated Web Server Deployment with Vagrant and Puppet**.
 
 This project was developed for the Deployment Automation course, as part of the official university master's degree in Development and Operations (DevOps).
 
