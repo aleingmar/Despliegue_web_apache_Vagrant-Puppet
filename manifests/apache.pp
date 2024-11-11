@@ -14,7 +14,7 @@ class apache {
   # Crea el archivo index.html en la carpeta raíz de Apache
   file { '/var/www/html/index.html':
     ensure  => file,
-    content => '<html><body><h1>Objetivo conseguido, el servicio web Apache esta corriendo.</h1></body></html>',
+    content => '<html><body><h1>Goal reached, the Apache web service is running.</h1></body></html>',
     require => Package['apache2'],
   }
 }
